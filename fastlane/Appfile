@@ -1,0 +1,7 @@
+app_identifier "com.fbapp.WXScanAssistant" # The bundle identifier of your app
+apple_id "emooji0s@gmail.com" # Your Apple email address
+
+team_id "CR386L3EVP" # Developer Portal Team ID
+
+# you can even provide different app identifiers, Apple IDs and team names per lane:
+# More information: https://github.com/fastlane/fastlane/blob/master/fastlane/docs/Appfile.md
