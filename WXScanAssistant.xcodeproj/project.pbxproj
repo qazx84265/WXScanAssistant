@@ -1117,8 +1117,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.fbapp.WXScanAssistant;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "8faebe4b-359a-4f38-98d9-b67a91a916dc";
-				PROVISIONING_PROFILE_SPECIFIER = WXScanAssistant_store;
+				PROVISIONING_PROFILE = "f5a33a61-35f9-47d6-b418-493cdd4630b1";
+				PROVISIONING_PROFILE_SPECIFIER = WXScanAssistant_hoc;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
