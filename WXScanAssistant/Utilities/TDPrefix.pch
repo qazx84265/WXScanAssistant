@@ -1,0 +1,61 @@
+//
+//  TDPrefix.pch
+//  ARSeek
+//
+//
+
+#ifndef TDPrefix_pch
+#define TDPrefix_pch
+
+#ifdef __OBJC__
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import <objc/runtime.h>
+#import <StoreKit/StoreKit.h>
+
+
+//-- categ
+#import "UIColor+Random.h"
+#import "UIColor+Hex.h"
+#import "UIImage+Color.h"
+#import "UIImage+Resize.h"
+#import "UIView+Frame.h"
+#import "UIBezierPath+arrowLine.h"
+
+#import "NSString+Pinyin.h"
+#import "NSString+Size.h"
+#import "NSString+hash.h"
+#import "NSString+trims.h"
+#import "NSString+Emoji.h"
+#import "NSString+UrlEncode.h"
+
+#import "NSDate+Utilities.h"
+#import "NSDate+Extension.h"
+
+#import "NSData+Extends.h"
+
+#include "UIDevice+Hardware.h"
+
+
+#import "TDMacro.h"
+#import "TDTools.h"
+#import "WSACommon.h"
+
+#import "WSAMessageTargetModel.h"
+#import "WSAWechatUserModel.h"
+#import "WSAMsgSendManager.h"
+#import "WSAIapVC.h"
+
+
+#import <AFNetworking/AFNetworking.h>
+#import <Masonry/Masonry.h>
+#import <SVProgressHUD/SVProgressHUD.h>
+#import <IAPHelper/IAPShare.h>
+
+#import "WSANetworkHelper.h"
+
+
+#endif //__OBJC__
+
+#endif /* TDPrefix_pch */

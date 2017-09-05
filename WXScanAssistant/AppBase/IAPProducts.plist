@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+        <key>pid</key>
+        <string>wechat.assistant.bronze</string>
+		<key>name</key>
+        <string>青铜版</string>
+        <key>price</key>
+        <string>118</string>
+		<key>desc</key>
+		<string>单个用户的推广消息发送人数上限为20人（当用户的联系人多于20人时，只发送给前20）</string>
+	</dict>
+    <dict>
+        <key>pid</key>
+        <string>wechat.assistant.silver</string>
+        <key>name</key>
+        <string>白银版</string>
+        <key>price</key>
+        <string>188</string>
+        <key>desc</key>
+        <string>单个用户的推广消息发送人数上限为50</string>
+    </dict>
+    <dict>
+        <key>pid</key>
+        <string>wechat.assistant.gold</string>
+        <key>name</key>
+        <string>黄金版</string>
+        <key>price</key>
+        <string>268</string>
+        <key>desc</key>
+        <string>单个用户的推广消息发送人数上限为100</string>
+    </dict>
+    <dict>
+        <key>pid</key>
+        <string>wechat.assistant.diamond</string>
+        <key>name</key>
+        <string>钻石版</string>
+        <key>price</key>
+        <string>488</string>
+        <key>desc</key>
+        <string>可以设置商家商标，可以发送推广图片，单个用户的消息推送人数上限为300</string>
+    </dict>
+    <dict>
+        <key>pid</key>
+        <string>wechat.assistant.master</string>
+        <key>name</key>
+        <string>大师版</string>
+        <key>price</key>
+        <string>588</string>
+        <key>desc</key>
+        <string>可以设置商家商标，可以发送推广图片，单个用户的消息推送人数无上限</string>
+    </dict>
+</array>
+</plist>
